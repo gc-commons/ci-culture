@@ -1,6 +1,6 @@
 {
   "name": "ci-culture",
-  "version": "0.2.13",
+  "version": "0.2.14",
   "description": "Common custom culture service used among different CI apps",
   "main": [
     "src/culture.service.js",
