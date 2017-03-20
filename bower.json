@@ -23,8 +23,8 @@
     "angular-cookies": "~1.2.28",
     "angular-mocks": "~1.2.28",
     "lodash": "~3.10.0",
-    "ci-http": "https://github.com/pablonp/ci-http.git",
-    "ci-translate": "https://github.com/pablonp/ci-translate.git",
-    "ci-brands": "https://github.com/pablonp/ci-brands.git"
+    "ci-http": "https://github.com/gc-commons/ci-http.git",
+    "ci-translate": "https://github.com/gc-commons/ci-translate.git",
+    "ci-brands": "https://github.com/gc-commons/ci-brands.git"
   }
 }
